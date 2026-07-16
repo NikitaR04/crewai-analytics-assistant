@@ -381,7 +381,7 @@ python tests/test_crew_tools.py
 **Nikita Rani**
 
 B.Tech, Computer Science & Engineering  
-KIIT University
+KIIT University, Bhubaneswar
 
 Project developed as part of the **IIT-R ML & Agentic AI Summer Internship Training Program**.
 
